@@ -1,7 +1,8 @@
 # coppeliasim-pointcloud-ros2
 ROS2 interface for sensors in coppeliasim to get pointcloud
 
-![Lidar point cloud ROS2 interface](./resources/res.png)
+![Lidar point cloud ROS2 interface](./resources/sensors.png)
+![Mobile rbt with lidar and obstacles](./resources/mobile.png)
 
 ## install
 
