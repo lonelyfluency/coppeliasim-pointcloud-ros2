@@ -44,6 +44,14 @@ Assume you have your ROS2 settled on your system.
 
 ## usage
 
+### point cloud visualization
 1.  Open the pc_scene.ttt scene in coppeliasim. > Start simulation.
 
 2.  Open another terminal to see ros2 topic or open rviz2 to visualize the point cloud.
+
+### mobile robot with lidar and obstacles.
+1.  Open the mobile_pc.ttt scene in coppeliasim. > Start simulation.
+
+2.  Open another terminal to see ros2 topic. Or open rviz2 to visualize the point cloud. 
+
+3.  Send control via ros2 to the leftMotorSpeed and rightMotorSpeed of the robot.
